@@ -1,0 +1,15 @@
+﻿  Assembling _asm.asm...
+  exp.cpp
+exp.cpp(113): warning C4311: “类型转换”: 从“BYTE *”到“DWORD”的指针截断
+exp.cpp(113): warning C4302: “类型转换”: 从“BYTE *”到“DWORD”截断
+exp.cpp(119): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“PDWORD”
+exp.cpp(126): warning C4311: “类型转换”: 从“BYTE *”到“DWORD”的指针截断
+exp.cpp(126): warning C4302: “类型转换”: 从“BYTE *”到“DWORD”截断
+exp.cpp(127): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“PDWORD”
+exp.cpp(255): warning C4311: “类型转换”: 从“HDC”到“DWORD”的指针截断
+exp.cpp(255): warning C4302: “类型转换”: 从“HDC”到“DWORD”截断
+  正在生成代码
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  exp.vcxproj -> C:\Users\ze0r\Desktop\x64\x64\Release\exp.exe
+  exp.vcxproj -> C:\Users\ze0r\Desktop\x64\x64\Release\exp.pdb (Full PDB)
