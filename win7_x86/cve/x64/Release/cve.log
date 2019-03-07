@@ -1,0 +1,4 @@
+﻿  Performing Custom Build Tools
+  'nasm' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): error MSB6006: “cmd.exe”已退出，代码为 9009。
